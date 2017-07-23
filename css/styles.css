@@ -1,0 +1,15 @@
+body{
+    background-size: cover;
+    /*gawa ka bg background-image: url("../images/ssstore.jpg");*/
+    background-color: #efefef;
+}
+
+/*for transparent nav tapos lagay ka background related sa sari sari store*/
+.navbar {
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
+}
+
+/*text color*/
+.navbar li { color: #000 } 
